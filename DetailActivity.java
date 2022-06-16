@@ -15,7 +15,7 @@ import com.google.android.material.snackbar.Snackbar;
 
 public class DetailActivity extends AppCompatActivity {
 
-    private ImageView ivDetail;
+    private ImageView ivDetail; // ini coba new Branch
     private TextView tvDetail;
 
     @Override
